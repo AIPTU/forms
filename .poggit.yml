@@ -1,0 +1,13 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/Frago9876543210/forms
+branches:
+  - master
+projects:
+  forms:
+    path: ""
+    lint:
+      phpstan: false
+  libforms:
+    path: ""
+    type: library
+    model: virion
+...

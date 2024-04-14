@@ -1,0 +1,7 @@
+name: libforms
+authors:
+  - Frago9876543210
+antigen: forms
+version: 1.0.0
+api:
+  - 5.14.0
